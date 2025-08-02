@@ -10,13 +10,6 @@ This Streamlit application extracts both **printed and handwritten text** from i
 * 🖼️ User-friendly interface to upload and preview images
 * 📥 Downloadable structured table as a `.txt` file
 
----
-
-## 🚀 Demo
-
-[https://your-app-url.streamlit.app](https://your-app-url.streamlit.app) (optional)
-
----
 
 ## 🛠️ Installation
 
